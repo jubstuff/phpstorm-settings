@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="is-anagram" type="PHP" />
       <mapping pattern="tip-calculator" type="PHP" />
+      <mapping pattern="app" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-dev-dashboard" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
